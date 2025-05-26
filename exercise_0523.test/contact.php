@@ -16,8 +16,7 @@ $username = $_POST["username"];
 
     <?php
     {
-        echo "<h2>您好 ! $username "歡迎來到我的購物商城" </h2>"."<br>";
-
+        echo "<h2>您好 ! $username "歡迎來到我的購物商城" </h2>"."<br>"
     } 
 ?>
 
