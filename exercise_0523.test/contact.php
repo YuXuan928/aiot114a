@@ -1,8 +1,6 @@
 <?php
 $username = $_POST["username"];
 ?>
-
-
 <!DOCTYPE html>
 <html lang="zh-tw">
 
@@ -13,13 +11,11 @@ $username = $_POST["username"];
 </head>
 
 <body bgcolor="#B0C4DE">
-
     <?php
     {
-        echo "<h2>$username  您好 !</h2>"."<br>";
+        echo "<h2>您好 ! $username  歡迎來到我的購物商城</h2>"."<br>";
 
     } 
-    echo "歡迎來到我的購物商城"."<br>";
 ?>
 
 </body>
